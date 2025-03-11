@@ -4,3 +4,6 @@ od/
 **.png 
 **.jpeg
 **.jpg
+model_checkpoints/
+annotations/
+tf_downloads/
