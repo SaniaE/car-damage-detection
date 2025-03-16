@@ -36,6 +36,9 @@ The model has been trained on a diverse set of vehicle images that include both 
 ## Results 
 ![Results](screenshots/results.png)
 
+
+![Demo Video](screenshots/Damage%20Detection%20Demo-VEED.gif)
+
 ## Installation 
 
 1. Clone the repository and change directory
@@ -67,6 +70,7 @@ The model has been trained on a diverse set of vehicle images that include both 
 
     ```bash
     jupyter notebook
+    ``` 
     
 6. About the notebooks:
     - `Car Damage Classification (CNN).ipynb` trains a CNN model for car damage classification, covering data loading, visualization, model architecture, training, and tracking accuracy and loss trends.
