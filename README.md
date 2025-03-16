@@ -7,7 +7,7 @@ This project presents a two-fold model architecture for damage detection ensurin
 
 ## Architecture 
 
-![alt text](image-1.png)
+![Workflow](screenshots/workflow.png)
 
 This system features a two-fold model architecture:
 
@@ -25,7 +25,7 @@ This two-step process ensures both efficient filtering and accurate localization
 
 ## Dataset 
 
-![alt text](image.png)
+![Dataset](screenshots/dataset.png)
 
 The model has been trained on a diverse set of vehicle images that include both undamaged and damaged vehicles. The damage types in the dataset cover a range of common vehicle issues, such as scratches, dents, glass shattered, and smashed areas. 
 
@@ -34,7 +34,7 @@ The model has been trained on a diverse set of vehicle images that include both 
 - **Annotation Tool:** Annotations were performed using the LabelImg tool
 
 ## Results 
-![alt text](image-3.png)
+![Results](screenshots/results.png)
 
 ## Installation 
 
