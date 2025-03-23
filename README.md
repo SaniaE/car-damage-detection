@@ -78,3 +78,4 @@ The model has been trained on a diverse set of vehicle images that include both 
     - `Image Annotation Setup.ipynb` guides through setting up the annotation environment, covering annotation tool configuration, and launches the tool to annotate images required for object detection
     - `Object Detection Training.ipynb` details the process of training the object detection model. It includes steps for data loading, creating TFRecords and label maps, downloading a pretrained model, setting up the configuration, and running the training process using the appropriate commands. 
     - `Object Detection Inferences.ipynb` outlines the steps for loading the trained model, performing inference, and evaluating the model's performance on unseen data.
+    - `experiments/` contains notebooks that explore incorporating saliency maps to gain significant insights into the regions of the input that most influence model predictions. 
